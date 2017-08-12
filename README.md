@@ -1,4 +1,4 @@
-![alt text](https://en.wikipedia.org/wiki/File:Google_Summer_Of_Code_2015.jpg)
+![alt text](https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwivgtrAsNLVAhWmzIMKHZS9C88QjRwIBw&url=http%3A%2F%2Fabout.glasslabgames.org%2Fcommunity%2Fsummer-of-code%2F&psig=AFQjCNFQC3dXC_kXMM3sSbdqn0QCFXrjHw&ust=1502650768872919)
 
 The Google Summer of Code, often abbreviated to GSoC, is an international annual program, first held from May to August 2005,[1] in which Google awards stipends, which depends on the purchasing power parity of the country the student's university belongs to,[2] to all students who successfully complete a requested free and open-source software coding project during the summer. The program is open to university students aged 18 or over.
 
