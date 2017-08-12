@@ -1,3 +1,7 @@
+![alt text](https://en.wikipedia.org/wiki/File:Google_Summer_Of_Code_2015.jpg)
+
+The Google Summer of Code, often abbreviated to GSoC, is an international annual program, first held from May to August 2005,[1] in which Google awards stipends, which depends on the purchasing power parity of the country the student's university belongs to,[2] to all students who successfully complete a requested free and open-source software coding project during the summer. The program is open to university students aged 18 or over.
+
 # Refactoring Essentials for Visual Studio
 
 [@vsrefactoring](https://twitter.com/vsrefactoring) | [vsrefactoringessentials.com](http://vsrefactoringessentials.com/)
